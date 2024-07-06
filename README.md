@@ -40,4 +40,21 @@
 
 - in the manage & booked service page i have add current user data . he/she added in her account .
 
-- In the all service page i have implement framer motion in there cards. Also i have implement pagination here. 
+- In the all service page i have implement framer motion in there cards. Also i have implement pagination here.
+
+- 
+* The Technology i have used in the project..........
+        1. Html,
+        2. Tailwind-css,
+        3. Daisy ui,
+        4. React.js,
+        5. React Router Dom,
+        6. JavaScript,
+        7. React icon.
+        8. Node.js
+        9. Express.js
+        10. Json Web token ( JWT ).js
+        11.MongoDB etc.
+
+  
+  
